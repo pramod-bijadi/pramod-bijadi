@@ -13,10 +13,10 @@
 
 I'm a passionate full-stack developer with over 20 years of experience building scalable, high-performance web applications and AI-powered platforms. I specialize in:
 
-- ⚛️ **Frontend:** React, Next.js, Tailwind, Zustand, GraphQL
+- ⚛️ **Frontend:** React, Next.js, Tailwind, Zustand
 - 🧠 **AI/ML:** OpenAI (GPT, Whisper), LangChain, Hugging Face, Pinecone
 - ☁️ **Cloud:** Azure, Terraform, DevOps
-- 🛠 **Backend:** .NET Core / C#, Python (FastAPI, Django), Java (Spring Boot), REST APIs, Node.js
+- 🛠 **Backend:** .NET Core / C#, Python (FastAPI, Django), Java (Spring Boot), REST APIs, GraphQL, Node.js
 - 🧩 **CMS & Platforms:** Contentful, Contentstack, AEM
 
 ---
